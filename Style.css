@@ -1,0 +1,11 @@
+.logo{
+    float: left;
+    width: 100px;
+}
+.mail{
+    display: flex;
+    align-items: flex-end;
+    float: left;
+    width: 50px;
+}
+ 
